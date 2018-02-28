@@ -163,6 +163,8 @@ return [
         //JWTAuth Service Provider
         Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
 
+        //JWTAuth Guard
+        Irazasyed\JwtAuthGuard\JwtAuthGuardServiceProvider::class,
     ],
 
     /*
