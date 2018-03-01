@@ -5,7 +5,7 @@
   },
   "apps": [
     {
-      "root": "resources/assets/src/",
+      "root": "resources/assets/src",
       "outDir": "public/js",
       "deployUrl": "js/",
       "assets": [
